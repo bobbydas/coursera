@@ -1,0 +1,8 @@
+setwd("~/learning/coursera/jh-datascience/")
+list.filesIO
+list.files())
+list.files()
+source('githubAPI.R')
+data
+data[1]
+data[[1]]
